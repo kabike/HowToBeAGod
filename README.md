@@ -12,5 +12,12 @@
 1. [如何学习分布式系统](https://www.imooc.com/article/286118)
 1. [零基础怎么学大数据](https://www.jianshu.com/p/4fc20b35dd21)
 
+# 资源列表
+Java中的一些优秀项目列表
+
+https://github.com/akullpp/awesome-java
+
+https://github.com/jobbole/awesome-java-cn
+
 # 以下为暂未整理分类的资源列表
 https://note.youdao.com/web/#/file/9B7257F1CBE541F09073E40F2A0536E4/note/WEB3d32f368921aeb193a8760da8726cdfc/
