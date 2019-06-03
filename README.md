@@ -14,7 +14,7 @@
 ## 如何入门
 待续
 ## 如何提高
-待续
+1. [如何设置GC参数](https://gitee.com/xinhe65045/study/blob/master/07-%E8%AF%AD%E8%A8%80/JAVA/JVM/10-toolbox/GCLOG%E9%80%89%E9%A1%B9.md)
 ## 如何学习大数据
 1. [如何学习分布式系统](https://www.jianshu.com/p/ec9b1b6f0968)
 1. [零基础怎么学大数据](https://www.jianshu.com/p/4fc20b35dd21)
