@@ -11,7 +11,7 @@
 ## 如何提高
 待续
 ## 如何学习大数据
-1. [如何学习分布式系统](https://www.imooc.com/article/286118)
+1. [如何学习分布式系统](https://www.jianshu.com/p/ec9b1b6f0968)
 1. [零基础怎么学大数据](https://www.jianshu.com/p/4fc20b35dd21)
 
 ## 资源列表
