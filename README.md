@@ -6,7 +6,7 @@
 注意，本文中引用的文章仅代表文章作者观点,不代表本文立场。
 
 ## 贡献者
-1. 大神带我来搬砖  
+1. [大神带我来搬砖](https://www.jianshu.com/u/0dc4de2272f0)  
 ![avatar](img/owner.jpg)
 1. [xinhe65045](https://gitee.com/xinhe65045)
 
