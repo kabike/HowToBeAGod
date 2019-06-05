@@ -16,6 +16,9 @@
 
 ## 非技术讨论
 1. [零基础怎么学大数据](https://www.jianshu.com/p/4fc20b35dd21)
+1. [给转行做IT的人的忠告](http://tieba.baidu.com/p/6143431263)
+1. [程序员学历的重要性](http://tieba.baidu.com/p/5630754665)
+1. [我们如何走向真正的开发大神？](http://tieba.baidu.com/p/5779984755)
 
 ## 基础
 待续
