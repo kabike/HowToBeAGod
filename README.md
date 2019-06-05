@@ -9,6 +9,7 @@
 1. [大神带我来搬砖](https://www.jianshu.com/u/0dc4de2272f0)  
 ![avatar](img/owner.jpg)
 1. [xinhe65045](https://gitee.com/xinhe65045)
+1. [hhf_Engineer](https://www.jianshu.com/u/c7adbc6b595c)
 
 ## 如何参与编辑
 只要会git就行啦，不会的可以[学习一下git](https://www.jianshu.com/p/fb47e3d79ab3)
