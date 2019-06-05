@@ -14,6 +14,9 @@
 ## 如何参与编辑
 只要会git就行啦，不会的可以[学习一下git](https://www.jianshu.com/p/fb47e3d79ab3)
 
+## 非技术讨论
+1. [零基础怎么学大数据](https://www.jianshu.com/p/4fc20b35dd21)
+
 ## 基础
 待续
 ## 高级
@@ -21,7 +24,7 @@
 1. [如何设置GC参数](https://gitee.com/xinhe65045/study/blob/master/07-%E8%AF%AD%E8%A8%80/JAVA/JVM/10-toolbox/GCLOG%E9%80%89%E9%A1%B9.md)
 ## 如何学习大数据
 1. [如何学习分布式系统](https://www.jianshu.com/p/ec9b1b6f0968)
-1. [零基础怎么学大数据](https://www.jianshu.com/p/4fc20b35dd21)
+
 
 ## 资源列表
 Java中的一些优秀项目列表
